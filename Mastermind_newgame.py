@@ -25,7 +25,7 @@ def create_options():
 
     return optional_codes
 
-def create_all__feetback ():
+def create_all_feetback ():
     all_feetback = []
     for i in range (0,5):
         for j in range (0,5):
