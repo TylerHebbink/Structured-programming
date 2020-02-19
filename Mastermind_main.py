@@ -6,7 +6,7 @@ list=[]
 for i in range (1,10):
     code = ng.new_code()
     all_options = ng.create_options()
-    all_feetback = ng.create_all__feetback()
+    all_feetback = ng.create_all_feetback()
     counter = 0
     while True:
 #        guess = gs.take_a_guess(all_options)
